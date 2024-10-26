@@ -1,13 +1,6 @@
-# Adding Links to https://pkg.go.dev Module Page
+# Adding Links to pkg.go.dev Module Page
 
-TODO: add a link to my blog article.
-
-## Positions
-
-- `readme.md`
-- `<package>/readme.md`
-- `godoc`
-- `<package> godoc`
+Read the article: [How I published links inside the Go documentation of my module](https://ldez.github.io//blog/2024/10/26/links-godoc-module/)
 
 ## Examples
 
@@ -27,6 +20,13 @@ TODO: add a link to my blog article.
 // - Title from godoc 2, https://example.org
 package foo
 ```
+
+## Positions
+
+- `readme.md`
+- `<package>/readme.md`
+- `godoc`
+- `<package> godoc`
 
 ## References
 
