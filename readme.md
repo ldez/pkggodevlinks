@@ -40,5 +40,5 @@ Note: the repository must have a license that follow the [license policy](https:
 
 ## Links
 
-- [Title from readme 1](https://example.com)
-- [Title from readme 2](https://example.org)
+- [🚴‍♀️ Title from readme 1](https://example.com)
+- [🚴 Title from readme 2](https://example.org)
