@@ -7,8 +7,8 @@ Read the article: [How I published links inside the Go documentation of my modul
 ```markdown
 ## Links
 
-- [Title from readme 1](https://example.com)
-- [Title from readme 2](https://example.org)
+- [Title from readme 1](https://github.com/ldez)
+- [Title from readme 2](https://bento.me/ldez)
 ```
 
 ```go
@@ -16,8 +16,8 @@ Read the article: [How I published links inside the Go documentation of my modul
 //
 // Links
 //
-// - Title from godoc 1, https://example.com
-// - Title from godoc 2, https://example.org
+// - Title from godoc 1, https://github.com/ldez
+// - Title from godoc 2, https://bento.me/ldez
 package foo
 ```
 
@@ -40,5 +40,5 @@ Note: the repository must have a license that follow the [license policy](https:
 
 ## Links
 
-- [🚴‍♀️ Title from readme 1](https://example.com)
-- [🚴 Title from readme 2](https://example.org)
+- [🚴‍♀️ Title from readme 1](https://github.com/ldez)
+- [🚴 Title from readme 2](https://bento.me/ldez)

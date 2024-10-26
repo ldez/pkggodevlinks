@@ -2,8 +2,8 @@
 //
 // # Links
 //
-// - 🐉 Title from godoc 1, https://example.com
-// - 🦖 Title from godoc 2, https://example.org
+// - 🐉 Title from godoc 1, https://github.com/ldez
+// - 🦖 Title from godoc 2, https://bento.me/ldez
 package pkggodevlinks
 
 import "fmt"
