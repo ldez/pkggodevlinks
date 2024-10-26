@@ -36,6 +36,8 @@ package foo
 - https://go-review.googlesource.com/c/pkgsite/+/274957
 - https://go-review.googlesource.com/c/pkgsite/+/275276
 
+Note: the repository must have a license that follow the [license policy](https://pkg.go.dev/license-policy).
+
 ## Links
 
 - [Title from readme 1](https://example.com)
